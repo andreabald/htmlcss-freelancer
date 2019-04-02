@@ -1,0 +1,121 @@
+.bg-blue{
+  background-color: #004466;
+}
+
+nav .navbar{
+  margin-bottom: 0;
+}
+
+nav a{
+color: white;
+text-transform: uppercase;
+}
+
+.navbar-header a{
+  font-size: 50px;
+}
+
+nav ul li{
+  font-size: 20px;
+}
+
+.p{
+  padding: 20px;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.white{
+  color: white;
+}
+
+.bg-azzurro{
+  background-color: #00ccff;
+}
+
+.altezza{
+  width: 200px;
+}
+
+.col-bord-white{
+  border-top: 4px solid white;
+}
+
+.titolo{
+  font-size: 70px;
+}
+
+.mt-50{
+  margin-top: 50px;
+}
+
+.mb-50{
+  margin-bottom: 50px;
+}
+
+.font-40{
+  font-size: 40px;
+}
+
+.w-100{
+  width: 100%;
+  height:auto;
+}
+
+.mb-30{
+  margin-bottom: 30px;
+}
+.col-bord-blu{
+  border-top: 4px solid #004466;
+}
+
+.blue{
+  color: #004466;
+}
+
+.font-par{
+  font-size: 20px;
+}
+
+.button-down{
+  display: inline-block;
+  border: 2px solid white;
+  border-radius: 3px;
+  padding: 20px 30px;
+  font-size: 20px;
+}
+
+.gray{
+  color: #737373;
+}
+
+.hr-bord1{
+  border-bottom: 1px solid #737373;
+}
+
+.mb-20{
+  margin-bottom: 20px;
+}
+
+.button-send{
+  display: inline-block;
+  border: 2px solid #00ccff;
+  border-radius: 3px;
+  background-color:#00ccff;
+  padding: 20px 30px;
+  font-size: 20px;
+}
+
+.font-30{
+  font-size: 30px;
+}
+
+#bluscuro{
+  background-color: #001a33;
+}
+
+.mt-20{
+  margin-top: 20px;
+}
